@@ -1,7 +1,7 @@
 {
-  "name": "onepinopenscpkcs11",
-  "description": "OpenSC PKCS#11 Module",
+  "name": "gemalto_r5",
+  "description": "Gemalto R5 Card PKCS#11 Module",
   "type": "pkcs11",
-  "path": "C:\\Windows\\System32\\onepin-opensc-pkcs11.dll",
+  "path": "C:\\Program Files\\Gemalto\\Classic Client\\BIN\\gclib.dll",
   "allowed_extensions": ["{02274e0c-d135-45f0-8a9c-32b35110e10d}"]
 }
