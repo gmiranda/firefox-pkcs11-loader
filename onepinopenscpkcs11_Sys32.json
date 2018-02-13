@@ -1,5 +1,5 @@
 {
-  "name": "gemalto_r5",
+  "name": "GemaltoR5",
   "description": "Gemalto R5 Card PKCS#11 Module",
   "type": "pkcs11",
   "path": "C:\\Program Files\\Gemalto\\Classic Client\\BIN\\gclib.dll",
