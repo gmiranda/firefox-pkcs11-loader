@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
   "name": "Firefox PKCS11 loader",
-  "description": "Configures Firefox to use PKCS11 for authentication",
-  "homepage_url": "https://github.com/open-eid/firefox-pkcs11-loader",
+  "description": "Configures Firefox to use PKCS11 for authentication using Gemalto cards. Derived from https://github.com/open-eid/firefox-pkcs11-loader",
+  "homepage_url": "https://etsetb.upc.edu/ca/els-serveis/serveis-informatics/",
   "version": "1.0.1",
   "icons": { "32": "id-32.png" },
   "permissions": [ "pkcs11" ],
