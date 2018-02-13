@@ -20,7 +20,7 @@
 (async function () {
   if(typeof browser.pkcs11 === 'undefined')
     return;
-  var modname = "gemalto_r5";
+  var modname = "GemaltoR5";
   try {
     var isInstalled = await browser.pkcs11.isModuleInstalled(modname);
     if(isInstalled) {
